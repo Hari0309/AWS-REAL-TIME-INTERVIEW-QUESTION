@@ -1,0 +1,49 @@
+  Q1 You have been assigned to design a VPC architecture for a 2-tier application. The application needs to be highly available and scalable. 
+    How would you design the VPC architecture?
+ 
+Q2  Your organization has a VPC with multiple subnets. You want to restrict outbound internet access for resources in one subnet, 
+    but allow outbound internet access for resources in another subnet. How would you achieve this?
+
+Q3   You have a VPC with a public subnet and a private subnet. Instances in the private subnet need to access the internet for software updates. 
+     How would you allow internet access for instances in the private subnet?
+
+Q4  You have launched EC2 instances in your VPC, and you want them to communicate with each other using private IP addresses. 
+    What steps would you take to enable this communication?
+
+Q5  You want to implement strict network access control for your VPC resources. How would you achieve this?
+
+Q6   Your organization requires an isolated environment within the VPC for running sensitive workloads. 
+    How would you set up this isolated environment?
+
+ Q7  Your application needs to access AWS services, such as S3 securely within your VPC. How would you achieve this?
+
+ Q8   What is the difference between NACL and Security groups ? Explain with a use case ?
+
+Q9    What is the difference between IAM users, groups, roles and policies ?
+
+Q10    You have a private subnet in your VPC that contains a number of instances that should not have direct internet access. 
+       However, you still need to be able to securely access these instances for administrative purQposes. How would you set up a bastion host to facilitate this access?
+
+Q11 Is there a way to upload a file that is greater than 100 megabytes on Amazon S3?
+
+Q12 What is the maximum number of S3 buckets you can create?
+
+Q13 When should you use the classic load balancer and the application load balancer?
+
+Q14  Which one of the storage solutions offered by AWS would you use if you need extremely low pricing and data archiving?
+
+Q15 You have connected four instances to ELB. To automatically terminate your unhealthy instances and replace them with new ones, which functionality would you use?
+
+Q16   Can you launch Amazon Elastic Compute Cloud (EC2) instances with predetermined private IP addresses? If yes, then with which Amazon service is it possible?
+
+Q17  Which Amazon solution will you use if you want to accelerate moving petabytes of data in and out of AWS, 
+     using storage devices that are designed to be secure for data transfer?
+
+Q18 You accidently stopped an EC2 instance in a VPC with an associated Elastic IP. If you start the instance again, what will be the result?
+
+Q19 Your organization has around 50 IAM users. Now, it wants to introduce a new policy that will affect the access permissions of an IAM user. 
+How can it implement this without having to apply the policy at the individual user level?
+
+Q20   I created a web application with autoscaling. 
+      I observed that the traffic on my application is the highest on Wednesdays and Fridays between 9 AM and 7 PM. 
+      What would be the best solution for me to handle the scaling?

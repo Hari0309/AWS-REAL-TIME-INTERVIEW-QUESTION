@@ -47,3 +47,7 @@ How can it implement this without having to apply the policy at the individual u
 Q20   I created a web application with autoscaling. 
       I observed that the traffic on my application is the highest on Wednesdays and Fridays between 9 AM and 7 PM. 
       What would be the best solution for me to handle the scaling?
+
+Q21 Difference between virtual machine and containers?
+
+Q22 Why containers are light weight in nature?

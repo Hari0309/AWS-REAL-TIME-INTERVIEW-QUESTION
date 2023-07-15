@@ -51,3 +51,15 @@ Q20   I created a web application with autoscaling.
 Q21 Difference between virtual machine and containers?
 
 Q22 Why containers are light weight in nature?
+
+Q23 What are the tools and techniques that you can use in AWS to identify if you are paying more than you should be, and how to correct it?
+
+Q24 Name some of the AWS services that are not region-specific?
+
+Q25 Your business prefers to use its email address and domain to send and receive compliance emails. 
+     What service do you recommend to implement it easily and budget-friendly?    
+
+Q26  How can you recover/login to an EC2 instance for which you have lost the key?
+
+ If you need to perform real-time monitoring of AWS services and get actionable insights, which services would you use?
+
